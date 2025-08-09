@@ -6,34 +6,8 @@ SQLBot is an AI-driven assistant that allows users to query SQL databases using 
 ## Features
 - Speech-to-Text input via OpenAI Whisper  
 - Natural language to SQL query translation with LangChain agents  
-- Secure SQL execution on databases using SQLDatabaseToolkit  
-- Interactive visualizations of query results  
+- Secure SQL execution on databases using SQLDatabaseToolkit    
 - Web interface powered by Flask and standard web technologies  
-
-## Installation
-1. Clone the repository:  
-   git clone https://github.com/YourUsername/SQLBot.git  
-   cd SQLBot
-
-2. Create and activate a virtual environment:  
-   python -m venv venv  
-   # Windows: venv\Scripts\activate  
-   # macOS/Linux: source venv/bin/activate
-
-3. Install dependencies:  
-   pip install -r requirements.txt
-
-4. Make sure FFmpeg is installed and in your system PATH: https://ffmpeg.org/download.html
-
-5. Create a `.env` file and add your OpenAI API key:  
-   OPENAI_API_KEY=your_api_key_here
-
-## Usage
-Run the Flask application:  
-python app.py  
-
-Open http://127.0.0.1:5000 in your browser.  
-Use voice or text input to query the database naturally.
 
 ## Requirements
 - langchain  
@@ -58,7 +32,7 @@ SQLBot/
 ├── utils/  
 ├── assets/  
 └── .env  
-
+![Demo](https://github.com/FadhilUsername/SQLBot/blob/main/assets/profile.jpg?raw=true)
 ## Credits
 Database source and inspiration: [SQL E-Commerce Dataset by youssefismail20 on Kaggle](https://www.kaggle.com/code/youssefismail20/sql-e-commerce/notebook)
 
