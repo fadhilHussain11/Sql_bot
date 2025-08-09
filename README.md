@@ -32,6 +32,7 @@ SQLBot/
 ├── utils/  
 ├── assets/  
 └── .env  
+## Demo
 ![Demo](https://github.com/fadhilHussain11/Sql_bot/blob/main/sqlbot.png?raw=true)
 ## Credits
 Database source and inspiration: [SQL E-Commerce Dataset by youssefismail20 on Kaggle](https://www.kaggle.com/code/youssefismail20/sql-e-commerce/notebook)
