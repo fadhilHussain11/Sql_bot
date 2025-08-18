@@ -9,19 +9,6 @@ SQLBot is an AI-driven assistant that allows users to query SQL databases using 
 - Secure SQL execution on databases using SQLDatabaseToolkit    
 - Web interface powered by Flask and standard web technologies  
 
-## Requirements
-- langchain  
-- python-dotenv  
-- langchain-community  
-- langchain_huggingface  
-- langchain_chroma  
-- streamlit  
-- langchain_groq  
-- langchain_core  
-- openai-whisper  
-- ffmpeg-python  
-- flask  
-
 ## Project Structure
 SQLBot/  
 ├── app.py  
